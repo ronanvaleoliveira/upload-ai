@@ -4,9 +4,30 @@
 
 Este projeto foi desenvolvido durante o evento NLW IA oferecido pela Rocketseat Education. Durante o evento, contruímos uma aplicação completa que permite upload de videos e utiliza a inteligência artificial para criar automaticamente títulos cativantes e descrições altamente indexáveis.
 
-## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 📝 Tecnologias Utilizadas
+
+Aqui estão as principais tecnologias utilizadas neste projeto:
+
+
+![React](https://cdn.discordapp.com/emojis/1150468234663968828.webp?size=44&quality=lossless)
+**React**
+
+![Node.js](https://cdn.discordapp.com/emojis/1150468230150885436.webp?size=44&quality=lossless)
+**Node.js** 
+
+![OpenAI](https://cdn.discordapp.com/emojis/1150468226480869396.webp?size=44&quality=lossless)
+**OpenAI**
+
+![Tailwind CSS](https://cdn.discordapp.com/emojis/1150468224920592484.webp?size=44&quality=lossless)
+**Tailwind CSS**
+
+![TypeScript](https://cdn.discordapp.com/emojis/1150468223595192370.webp?size=44&quality=lossless)
+**TypeScript**
+
+![Vercel](https://cdn.discordapp.com/emojis/1150468220801781881.webp?size=44&quality=lossless)
+**Vercel AI SDK**
 
 ---
 
